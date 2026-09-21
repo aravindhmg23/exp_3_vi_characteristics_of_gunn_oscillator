@@ -77,11 +77,13 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="427" height="593" alt="image" src="https://github.com/user-attachments/assets/755b9e51-3cac-43e0-8d64-fb16894d3a6a" />
+
 
 ## Calculation
 
-*(Include your own calculation relevant to the experiment.)*
+<img width="507" height="691" alt="image" src="https://github.com/user-attachments/assets/17b2c4bd-08eb-4927-aafc-5ba0510cf14d" />
+
 
 ## Precautions
 
@@ -91,4 +93,4 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Conclusion
 
-*(Write your own.)*
+The V–I characteristics of the Gunn oscillator were studied successfully. The current initially increased with voltage and then decreased over a certain voltage range, showing negative differential resistance (NDR). This characteristic confirms the Gunn effect and demonstrates the principle of microwave oscillation generation using a Gunn diode
